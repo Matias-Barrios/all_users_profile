@@ -7,8 +7,11 @@ echo "*       de Matias-Barrios            *"
 echo "*  \"No te olvides de poner el        *"
 echo "*      WHERE en el DELETE FROM\"      *"
 echo "*                                    *"
+echo "*  Hoy es   $( date +%D  )           *"
+echo "*                                    *"
+echo "*                                    *"
 echo "**************************************"
-
+echo "$(who) - $(date) " > /var/log/people.log
 
 
 
