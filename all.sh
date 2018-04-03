@@ -11,7 +11,7 @@ echo "*  Hoy es   $( date +%D  )           *"
 echo "*                                    *"
 echo "*                                    *"
 echo "**************************************"
-echo "$(who) - $(date) " > /var/log/people.log
+echo "$(who) - $(date) " >> /var/log/people.log
 
 
 
