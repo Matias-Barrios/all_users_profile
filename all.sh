@@ -68,7 +68,7 @@ echo "${FGGREEN}*${NORMAL}       de ${FGRED}Matias-Barrios${NORMAL}            $
 echo "${FGGREEN}*${NORMAL}  \"No te olvides de poner el        ${FGGREEN}*${NORMAL}"
 echo "${FGGREEN}*${NORMAL}      ${FGYELLOW}WHERE${NORMAL} en el ${FGYELLOW}DELETE FROM${NORMAL}\"      ${FGGREEN}*${NORMAL}"
 echo "${FGGREEN}*${NORMAL}                                    ${FGGREEN}*${NORMAL}"
-echo "${FGGREEN}*${NORMAL}  Hoy es   ${FGCYAN}$( date +%D  )${NORMAL}                ${FGGREEN}*${NORMAL}"
+echo "${FGGREEN}*${NORMAL}  Hoy es   ${FGCYAN}$( date +%D  )${NORMAL}                 ${FGGREEN}*${NORMAL}"
 echo "${FGGREEN}*${NORMAL}                                    ${FGGREEN}*${NORMAL}"
 echo "${FGGREEN}*${NORMAL}                                    ${FGGREEN}*${NORMAL}"
 echo "${FGGREEN}**************************************${NORMAL}"
